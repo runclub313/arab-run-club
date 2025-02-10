@@ -8,14 +8,14 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Arab Run Club'
+title: 'Arab Running Club'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'For Arabs by Arabs'
+slogan: 'Run Strong, Run Arab'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: >
-  »Arab Run Club Detroit« We are an organization with a goal to unite and empower
+  »Arab Running Clubn «We are an organization with a goal to unite and empower
   Arabs from across the Detroit metropolitan area through weekly organized runs and social events.
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
